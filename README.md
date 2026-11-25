@@ -78,7 +78,7 @@ const Johnny = {
 
 ---
 
-## 💜 Minha trajetória
+## Minha trajetória
 
 Sempre tive curiosidade por tecnologia e por entender como as coisas funcionam por dentro.
 
@@ -164,7 +164,7 @@ Meu objetivo é continuar evoluindo e construir uma base cada vez mais sólida e
 
 <div align="center">
 
-### 💜 "Se dá para automatizar, dá para melhorar."
+### "Se dá para automatizar, dá para melhorar."
 
 <img src="https://komarev.com/ghpvc/?username=Johnn5527&style=for-the-badge&color=8A2BE2"/>
 
