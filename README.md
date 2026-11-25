@@ -108,30 +108,6 @@ Meu objetivo é continuar evoluindo e construir uma base cada vez mais sólida e
 
 ---
 
-## 🛡️ Do problema à solução
-
-Gosto de participar de todo o caminho, desde enxergar o problema até ver a solução rodando:
-
-```text
-🔎 PROBLEMA
-   ↓
-💡 IDEIA
-   ↓
-🗂️ MODELAGEM DOS DADOS
-   ↓
-💻 DESENVOLVIMENTO
-   ↓
-🔐 SEGURANÇA
-   ↓
-🧪 TESTES
-   ↓
-🚀 DEPLOY
-   ↓
-✅ PROCESSO MAIS SIMPLES
-```
-
----
-
 ## 🚀 Projetos em destaque
 
 <div align="center">
@@ -155,58 +131,6 @@ Gosto de participar de todo o caminho, desde enxergar o problema até ver a solu
 | 🕵️ **[analisador-logs](https://github.com/Johnn5527/analisador-logs)** | Detecta força bruta, varreduras e injeções em logs, com resumo por IA opcional |
 | 🌐 **[portfolio](https://github.com/Johnn5527/portfolio)** | Meu portfólio estático em HTML, CSS e JavaScript no GitHub Pages |
 | 🧮 **[CALCULADORA](https://github.com/Johnn5527/CALCULADORA)** | Calculadora científica inspirada no Android com React, TypeScript e Vite |
-
----
-
-## 🧠 O que estou aprendendo
-
-```bash
-> carregando trilha de aprendizado...
-
-[██████████] Python & Automação
-
-[█████████░] JavaScript & Node.js
-
-[████████░░] Banco de Dados (SQL)
-
-[████████░░] Segurança da Informação
-
-[███████░░░] Inteligência Artificial
-
-[███████░░░] Dados
-
-[██████░░░░] Java
-
-STATUS:
-Aprender → Criar → Proteger → Melhorar
-```
-
----
-
-## 🎯 Próximos passos
-
-```bash
-╭─────────────────────────────────╮
-│        MEUS OBJETIVOS           │
-╰─────────────────────────────────╯
-
-[██████████] Criar soluções reais
-
-[█████████░] Evoluir no Back-end
-
-[████████░░] Aprofundar em Cibersegurança
-
-[████████░░] Explorar Inteligência Artificial
-
-[███████░░░] Trabalhar com Dados
-
-[████████░░] Construir meu portfólio
-
-[████████░░] Continuar aprendendo
-
-PRÓXIMO NÍVEL:
-ESTÁGIO EM TECNOLOGIA 🚀
-```
 
 ---
 
